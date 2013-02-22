@@ -8,16 +8,16 @@ Building \& Installation
 
 To build:
 
-$ cabal configure
-$ cabal build
+- $ cabal configure
+- $ cabal build
 
 To install:
 
-$ cabal install
+- $ cabal install
 
 To run:
 
-$ ivy \<image name\>
+- $ ivy \<image name\>
 
 Contact
 =======
