@@ -1,6 +1,6 @@
 ivy
 ===
-
+A simple image viewer written in Haskell
 
 Contact
 =======
